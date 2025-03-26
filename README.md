@@ -56,9 +56,6 @@ Dashboard
 - **Vehicle Types:** Passenger vehicles dominate, followed by SUVs and trucks.
 - **Colors:** The most common EV colors are **Black, Blue, Gray, and White**.
 
-## Visualizations
-- Power BI dashboard showcasing these insights with interactive filters and charts.
-
 ## How to Use
 1. Open the Jupyter Notebook to explore the Python analysis.
 2. View the Power BI dashboard for an interactive experience.
