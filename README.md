@@ -1,7 +1,8 @@
 # Electric Vehicle Registration Data Analysis
 
 ## Overview
-This project analyzes electric vehicle (EV) registration data using Python and Power BI. The goal is to uncover key insights into EV adoption trends, top manufacturers, vehicle types, and popular locations.
+
+This project analyzes the growth and distribution of Registered Electric Vehicles (EVs) in Connecticut State from 2008 to 2025. The goal is to identify adoption trends, leading manufacturers, and city-wise distribution, providing insights into the increasing shift toward sustainable transportation
 
 ## Data Source
 U.S. Government's Data Portal https://catalog.data.gov/dataset/electric-vehicle-registration-data
