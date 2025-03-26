@@ -4,7 +4,7 @@
 This project analyzes electric vehicle (EV) registration data using Python and Power BI. The goal is to uncover key insights into EV adoption trends, top manufacturers, vehicle types, and popular locations.
 
 ## Data Source
-U.S. Government's Data Portal (https://catalog.data.gov/dataset/electric-vehicle-registration-data)
+U.S. Government's Data Portal https://catalog.data.gov/dataset/electric-vehicle-registration-data
 
 ## Tools Used
 
