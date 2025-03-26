@@ -17,7 +17,12 @@ U.S. Government's Data Portal (https://catalog.data.gov/dataset/electric-vehicle
 - Power BI : Used for create interactive dashboards and data visualization
 
 
-## Key Insights
+## Visualizations & Insights
+
+Dashboard 
+
+![image](https://github.com/user-attachments/assets/32732b3e-b89d-4d03-96f6-c98bcb5a791c)
+
 ### 1. EV Type Distribution
 - **Battery Electric Vehicles (BEVs)** account for **63.8%** of total registrations.
 - **Plug-in Hybrid Electric Vehicles (PHEVs)** represent **35.68%**.
