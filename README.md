@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes the growth and distribution of Registered Electric Vehicles (EVs) in Connecticut State from 2008 to 2025. The goal is to identify adoption trends, leading manufacturers, and city-wise distribution, providing insights into the increasing shift toward sustainable transportation
+This project analyzes the growth and distribution of Registered Electric Vehicles (EVs) in the state of Connecticut from 2008 to 2025. The goal is to identify adoption trends, leading manufacturers, and city-level distribution, providing insights into the growing shift toward sustainable transportation.
 
 ## Data Source
 U.S. Government's Data Portal https://catalog.data.gov/dataset/electric-vehicle-registration-data
